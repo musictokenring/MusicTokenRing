@@ -1,3 +1,12 @@
+# Tokenomics Completo – v0.1 (06 de febrero de 2026)
+
+**Disclaimer / Aviso Legal Importante**  
+Este documento describe una propuesta preliminar de tokenomics para MusicTokenRing.  
+NO es final, NO está auditada y NO debe usarse como base para decisiones de inversión.  
+Todos los porcentajes, supply, vesting, utilidades y mecanismos están sujetos a revisión, auditorías profesionales y votación/feedback comunitario (cuando exista gobernanza).  
+No existe token desplegado actualmente. Cualquier expectativa de valor, utilidad o retorno es especulativa y conlleva alto riesgo de pérdida total.  
+No es oferta de valores ni asesoría financiera. Consulta a profesionales antes de participar en cualquier etapa futura del proyecto.
+
 # 💎 $MTOKEN TOKENOMICS - Plan Definitivo
 
 ## 🎯 VISIÓN GENERAL
