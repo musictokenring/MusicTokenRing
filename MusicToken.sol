@@ -1,4 +1,28 @@
 // SPDX-License-Identifier: MIT
+
+/*
+ * MusicToken.sol – v0.1 – 06 de febrero de 2026
+ *
+ * DISCLAIMER MUY IMPORTANTE – LEER ANTES DE USAR
+ *
+ * Este es un contrato inteligente BASE / BORRADOR creado para MusicTokenRing.
+ * NO ESTÁ AUDITADO.
+ * NO HA SIDO PROBADO EN MAINNET NI TESTNET PÚBLICA.
+ * NO DESPLEGAR CON FONDOS REALES NI USAR EN PRODUCCIÓN SIN AUDITORÍA PROFESIONAL POR EMPRESAS RECONOCIDAS (Certik, PeckShield, Hacken, etc.).
+ *
+ * Riesgos conocidos posibles: reentrancy, overflow/underflow (aunque usa SafeMath o 0.8+), front-running, centralización temporal (Ownable), etc.
+ * El código puede contener errores graves o vulnerabilidades.
+ * Cualquier despliegue o interacción es bajo tu propio riesgo exclusivo.
+ * El creador/fundador no asume responsabilidad por pérdidas de cualquier tipo.
+ *
+ * Uso recomendado: SOLO para revisión comunitaria, aprendizaje y sugerencias de mejora.
+ * Gracias por tu atención y feedback responsable.
+ */
+
+pragma solidity ^0.8.20;
+
+// Resto del código...
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
