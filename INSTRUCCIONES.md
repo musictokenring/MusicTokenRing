@@ -1,26 +1,23 @@
-
-# Instrucciones Iniciales – v0.1 (06 de febrero de 2026)
+# Instrucciones Iniciales – v0.1 – 06 de febrero de 2026
 
 **Disclaimer General del Proyecto**  
-MusicTokenRing se encuentra en fase conceptual y de desarrollo muy temprano (pre-MVP).  
-Todos los documentos, código y planes compartidos son preliminares, no definitivos y pueden cambiar drásticamente.  
-No existe token, producto funcional ni equipo formal constituido.  
-Este proyecto no ofrece garantías de éxito, rentabilidad, utilidad ni cumplimiento de roadmap.  
-Cualquier participación (lectura, feedback, inversión futura, etc.) es voluntaria y bajo tu propio riesgo.  
-No constituye oferta de valores, asesoría financiera, legal ni técnica.  
-Recomendamos verificar todo contenido y consultar expertos antes de tomar decisiones.
-# MusicTokenRing – Documentos Oficiales
+MusicTokenRing está en fase conceptual y pre-desarrollo (sin MVP funcional, token desplegado ni entidad legal constituida).  
+Todos los documentos, código y planes compartidos son preliminares y pueden cambiar drásticamente.  
+No existe garantía de éxito, utilidad, valor ni cumplimiento de roadmap o promesas.  
+Este proyecto no ofrece asesoría financiera, legal ni técnica.  
+Cualquier interacción (lectura, feedback, participación futura) es voluntaria y bajo tu propio riesgo exclusivo.  
+Recomendamos verificar toda información y consultar expertos independientes antes de tomar decisiones.
 
-Bienvenido a los docs iniciales del proyecto.
+## Cómo Usar estos Documentos
+1. Lee el README.md para visión general.
+2. Estudia el Plan de Acción para pasos inmediatos.
+3. Revisa Tokenomics para entender la economía.
+4. Mira Marketing para estrategia de crecimiento.
+5. Inspecciona MusicToken.sol para el código base.
 
-Archivos disponibles:
-- PLAN-ACCION-INMEDIATO.md → Qué hacer en las próximas 24-48h
-- TOKENOMICS-COMPLETE.md → Distribución, supply, vesting, etc.
-- MARKETING-90-DIAS.md → Estrategia para los primeros 3 meses
-- MusicToken.sol → Contrato inteligente base (Solidity)
+## Siguientes Pasos Recomendados
+- Únete al Discord para feedback.
+- Contribuye con ideas en GitHub (pull requests).
+- Sigue el Twitter para updates.
 
-Discord oficial: https://discord.gg/Av2xs6gx
-Twitter: @MusicTokenRing
-
-
-¡Feedback bienvenido en Discord!
+¡Gracias por tu interés!
