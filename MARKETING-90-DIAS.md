@@ -1,3 +1,12 @@
+# Plan de Marketing 90 Días – v0.1 (06 de febrero de 2026)
+
+**Disclaimer**  
+Este es un plan estratégico inicial y preliminar creado por el fundador.  
+Está sujeto a ajustes según presupuesto real (actualmente bootstrap con $0), resultados orgánicos, cambios en el mercado crypto y feedback comunitario.  
+No representa compromisos contractuales ni garantías de alcance, seguidores o resultados financieros.  
+Las estrategias propuestas pueden variar o cancelarse en cualquier momento.  
+No constituye promesa de marketing pagado ni resultados específicos.
+
 # 🚀 PLAN DE MARKETING - 90 DÍAS AL LANZAMIENTO
 
 ## 🎯 OBJETIVO PRINCIPAL
