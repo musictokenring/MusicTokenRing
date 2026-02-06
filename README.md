@@ -1,16 +1,21 @@
-## Hi there 👋
+# MusicTokenRing
 
-<!--
-**musictokenring/MusicTokenRing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Batalla tus canciones favoritas. Apuesta crypto. Gana en Polygon.  
+Spotify API + Web3 = 🔥
 
-Here are some ideas to get you started:
+Proyecto en construcción. Beta pronto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Documentos disponibles
+
+- [Plan de Acción Inmediato](PLAN-ACCION-INMEDIATO.md)  
+- [Tokenomics Completo](TOKENOMICS-COMPLETEO.md)  
+- [Marketing 90 días](MARKETING-90-DIAS.md)  
+- [Contrato inteligente](MusicToken.sol)  
+- [Instrucciones iniciales](INSTRUCCIONES.md)
+
+## Comunidad
+
+Discord oficial: https://discord.gg/Av2xs6gx  
+Twitter: @MusicTokenRing
+
+¡Únete y deja feedback! 🥊🎵
