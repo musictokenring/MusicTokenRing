@@ -9,17 +9,6 @@ La inversión en proyectos crypto conlleva riesgo alto de pérdida total de capi
 No se garantiza utilidad, valor ni retorno alguno.  
 Consulta siempre a asesores financieros y legales calificados antes de cualquier participación futura.
 
-# Tokenomics Completo – v0.1 – 06 de febrero de 2026
-
-**Aviso Legal Crítico**  
-Esta es una propuesta preliminar y NO FINAL de tokenomics para MusicTokenRing.  
-Todos los valores (supply, porcentajes, vesting, utilidades, mecanismos) están sujetos a revisión exhaustiva, auditorías profesionales y posible votación comunitaria futura.  
-Actualmente NO existe token desplegado ni en testnet ni mainnet.  
-Este documento NO representa oferta de valores, token sale ni asesoría de inversión.  
-La inversión en proyectos crypto conlleva riesgo alto de pérdida total de capital.  
-No se garantiza utilidad, valor ni retorno alguno.  
-Consulta siempre a asesores financieros y legales calificados antes de cualquier participación futura.
-
 ## Token Supply Total
 - Supply total: 1,000,000,000 MTR
 - Circulante inicial (presale + liquidity): 10% (100,000,000 MTR)
