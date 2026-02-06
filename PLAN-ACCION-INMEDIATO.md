@@ -1,3 +1,10 @@
+# Plan de Acción Inmediato – v0.1 (06 de febrero de 2026)
+
+**Disclaimer / Aviso Legal**  
+Este documento representa el plan inicial personal del fundador para MusicTokenRing y está sujeto a cambios constantes según resultados, feedback de la comunidad, regulaciones aplicables y evolución del proyecto.  
+No constituye asesoría financiera, legal ni de inversión. No hay garantía de éxito, rentabilidad ni cumplimiento de plazos.  
+MusicTokenRing es un proyecto en etapa muy temprana sin producto funcional ni token desplegado. Cualquier participación o expectativa es bajo tu propio riesgo.  
+El fundador no asume responsabilidad por decisiones tomadas basadas en este documento.
 # 🎯 PLAN DE ACCIÓN INMEDIATO - EMPIEZA HOY
 
 ## ✅ QUÉ HACER EXACTAMENTE - PRÓXIMAS 24 HORAS
