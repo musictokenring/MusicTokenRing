@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 
 /*
  * MusicToken.sol – v0.1 – 06 de febrero de 2026
@@ -24,16 +24,22 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract MusicToken is ERC20, Ownable {
+    // Constructor: Inicializa el token con nombre "MusicTokenRing" y símbolo "MTR"
+    // Todo el supply inicial (1,000,000,000) se mintea al owner (founder)
+    // Esto es centralizado temporalmente hasta que se migre a gobernanza comunitaria o multisig
     constructor() ERC20("MusicTokenRing", "MTR") Ownable(msg.sender) {
         _mint(msg.sender, 1000000000 * 10 ** decimals()); // Supply total 1B
     }
 
-    // Función de ejemplo para utilidades futuras (e.g. burn)
+    // Función burn: Permite a cualquier holder quemar sus propios tokens
+    // Útil para mecanismos deflacionarios o recompensas futuras
     function burn(uint256 amount) public {
         _burn(msg.sender, amount);
     }
 
-    // Función de ejemplo para tax (pendiente implementación completa)
+    // Función transfer override: Aquí se puede implementar la lógica de tax (fees) en el futuro
+    // Actualmente realiza transfer normal de ERC20 (sin tax activa)
+    // Pendiente: agregar tax para marketing/liquidity/burn según tokenomics
     function transfer(address recipient, uint256 amount) public override returns (bool) {
         // Aquí iría lógica de tax si se implementa
         return super.transfer(recipient, amount);
